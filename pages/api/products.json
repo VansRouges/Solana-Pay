@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Demon Slayer GIF pack",
+    "price": "1.09",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://media.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.gif",
+    "filename": "jk.zip",
+    "hash": "QmSSZNxgRmsBaCvCaT2qEaDtAfcELyctcmQFupuZbekZb2"
+  },
+  {
+    "id": 2,
+    "name": "One Piece GIF pack",
+    "price": "1.50",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://media.giphy.com/media/eR7OEDQDyA7Cg/giphy.gif",
+    "filename": "demon_slayer",
+    "hash": "QmQ89bhDtRonQwro1P5Pqi71tMq2KPErPxm3hXQG8wPrVN"
+  },
+  {
+    "id": 3,
+    "name": "Bleach GIF pack",
+    "price": "0.99",
+    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
+    "image_url": "https://media.giphy.com/media/oytiGBSlC7zAQ/giphy.gif",
+    "filename": "one_piece",
+    "hash": "QmXfV4efkdpW8x4Hdmr3Jby5tKTa4MCraV2BcnQhWTJoA6"
+  }
+]

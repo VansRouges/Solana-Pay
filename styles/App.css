@@ -1,8 +1,11 @@
+*{
+  background-color: rgb(20, 20, 20);
+}
 .App {
   height: 100vh;
   background-color: rgb(20, 20, 20);
   text-align: center;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 .container {
@@ -87,7 +90,7 @@ button:disabled {
   display: flex;
   justify-content: center;
   align-items: center;
-  position: absolute;
+  position: relative;
   bottom: 0 px;
   width: 100%;
   bottom: 0;
