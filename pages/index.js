@@ -21,7 +21,7 @@ const App = () => {
       <img src="https://media.giphy.com/media/137qIhWsIf9bDW/giphy.gif" alt="emoji" />
 
       <div className="button-container">
-        <WalletMultiButton className="cta-button connect-wallet-button" />
+        <WalletMultiButton className="cta-button connect-wallet-button w-2" />
       </div>    
     </div>
   );
@@ -50,7 +50,7 @@ const App = () => {
       <HeadComponent/>
       <div className="container">
         <header className="header-container">
-          <p className="header"> 😳 Buildspace Anime GIF Store 😈</p>
+          <p className="header"> Vance Anime GIF Store 😎</p>
           <p className="sub-text">The only emoji store that accepts shitcoins</p>
 
           {isOwner && (
