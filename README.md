@@ -1,4 +1,6 @@
-# buildspace Store on Solana Pay Project
+# buildspace Store on Solana Pay Project built by Vance
+![image](https://user-images.githubusercontent.com/67249759/197264201-ad7102cc-c5e0-460a-9621-11c9499ee638.png)
+
 
 ### **Welcome 👋**
 
